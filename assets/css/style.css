@@ -1,0 +1,27 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.txt-old{
+    color:#707070;
+}
+.txt-present{
+    padding-left: 10px;
+    color:#28A745;
+    font-size: xx-large;
+}
+.txt-card{
+    color:#707070;
+}
+.txt-title-card{
+    color: #212529;
+}
+.formulario{
+    background: #28A745;
+    color: #fff;
+}
+.logos{
+    height: 30px;
+}
+.navegacion{
+    background: #28A745;
+}
